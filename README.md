@@ -22,28 +22,27 @@ The application simulates an internal intranet system for a fictional company, a
 * Android SDK
 
 ---
-
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
 
-![Login](CompanyApp/screenshot/login(1).png)
-![Login](CompanyApp/screenshot/login(2).png)
-![Login](CompanyApp/screenshot/login(3).png)
+<img src="CompanyApp/screenshot/login(1).png" width="200">
+<img src="CompanyApp/screenshot/login(2).png" width="200">
+<img src="CompanyApp/screenshot/login(3).png" width="200">
 
 ### 🏠 Home Screen
 
-![Home](CompanyApp/screenshots/home(1).png)
-![Home](CompanyApp/screenshots/home(2).png)
+<img src="CompanyApp/screenshot/home(1).png" width="200">
+<img src="CompanyApp/screenshot/home(2).png" width="200">
 
 ### 📰 News Screen
 
-![News](CompanyApp/screenshots/news(1).png)
+<img src="CompanyApp/screenshot/news(1).png" width="200">
 
 ### 👥 Employees Screen
 
-![Employees](CompanyApp/screenshots/employees(1).png)
-![Employees](CompanyApp/screenshots/employees(2).png)
+<img src="CompanyApp/screenshot/employees(1).png" width="200">
+<img src="CompanyApp/screenshot/employees(2).png" width="200">
 
 ---
 
