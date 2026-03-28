@@ -25,11 +25,11 @@ The application simulates an internal intranet system for a fictional company, a
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-
+<p>
 <img src="CompanyApp/screenshot/login(1).png" width="200">
 <img src="CompanyApp/screenshot/login(2).png" width="200">
 <img src="CompanyApp/screenshot/login(3).png" width="200">
-
+</p>
 ### 🏠 Home Screen
 
 <img src="CompanyApp/screenshot/home(1).png" width="200">
