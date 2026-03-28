@@ -31,19 +31,19 @@ The application simulates an internal intranet system for a fictional company, a
 <img src="CompanyApp/screenshot/login(3).png" width="200">
 </p>
 ### 🏠 Home Screen
-
+<p>
 <img src="CompanyApp/screenshot/home(1).png" width="200">
 <img src="CompanyApp/screenshot/home(2).png" width="200">
-
+</p>
 ### 📰 News Screen
 
 <img src="CompanyApp/screenshot/news(1).png" width="200">
 
 ### 👥 Employees Screen
-
+<p>
 <img src="CompanyApp/screenshot/employees(1).png" width="200">
 <img src="CompanyApp/screenshot/employees(2).png" width="200">
-
+</p>
 ---
 
 ## 📂 Project Structure
