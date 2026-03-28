@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CompanyApp - Jaani</string>
+    <string name="company">Company 6000</string>
+    <string name="check">Remember me</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_your_email">Please enter your email</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Hello</string>
+    <string name="unknown_user">Unknow user</string>
+    <string name="fill_fields">Please add your credentials</string>
+    <string name="wrong_credentials">Wrong password or username</string>
+    <string name="Meetings">Meetings</string>
+    <string name="Meeting3">Wed 08.4.2026 at 14:00 - 16:00</string>
+    <string name="agenta3">Client dinner</string>
+    <string name="Todos">Todos</string>
+    <string name="sign_in">Login</string>
+    <string name="dog_content_description">Employee image</string>
+</resources>
