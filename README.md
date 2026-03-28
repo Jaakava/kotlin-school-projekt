@@ -27,23 +27,23 @@ The application simulates an internal intranet system for a fictional company, a
 
 ### 🔐 Login Screen
 
-![Login](CompanyApp/screenshots/login(1).png)
-![Login](screenshots/login(2).png)
-![Login](screenshots/login(3).png)
+![Login](CompanyApp/screenshot/login(1).png)
+![Login](CompanyApp/screenshot/login(2).png)
+![Login](CompanyApp/screenshot/login(3).png)
 
 ### 🏠 Home Screen
 
-![Home](screenshots/home(1).png)
-![Home](screenshots/home(2).png)
+![Home](CompanyApp/screenshots/home(1).png)
+![Home](CompanyApp/screenshots/home(2).png)
 
 ### 📰 News Screen
 
-![News](screenshots/news(1).png)
+![News](CompanyApp/screenshots/news(1).png)
 
 ### 👥 Employees Screen
 
-![Employees](screenshots/employees(1).png)
-![Employees](screenshots/employees(2).png)
+![Employees](CompanyApp/screenshots/employees(1).png)
+![Employees](CompanyApp/screenshots/employees(2).png)
 
 ---
 
